@@ -16,3 +16,5 @@ This project uses the following technologies:
 - Radix UI: For building accessible UI components.
 - React Query: For managing data fetching and caching.
 - React Hot Toast: For displaying notifications.
+
+![image](https://github.com/ImankaCloud/rmt-dev/assets/107856707/0eb40de5-8662-4bd8-b2a2-12d973f0d188)
